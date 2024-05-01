@@ -1,0 +1,1 @@
+Uma interface de vendas criada com Java Swing e Firebird SQL, permitindo ao usuário o cadastro, consulta, alteração e exclusão  de cliente e produtos, além da realização de vendas e a consulta de vendas anteriores.
